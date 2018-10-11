@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+/* railway_all_api.jsp */
+
+#services a{
+	text-decoration:none;
+}
+
+#iframe iframe{
+	width:100%;
+	height:600px;
+	border:none;
+}
+
+/* railway_between_station.jsp */
+
+#t3 select{
+	border-radius:5px;
+	width:100px;
+	height:30px;
+}
+
+#foot{
+	background-color: #777;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-family:Gabriola;
+	font-size:20px;
+}
